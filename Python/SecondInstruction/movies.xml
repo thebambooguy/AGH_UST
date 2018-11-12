@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<movie>
+		<title>Zielona mila</title>
+		<type>dziala</type>
+		<country>USA</country>
+		<year>1999</year>
+	</movie>
+	<movie>
+		<title>Matrix</title>
+		<type>dziala</type>
+		<country>Australia</country>
+		<year>1999</year>
+	</movie>
+	<movie>
+		<title>Shrek</title>
+		<type>dziala</type>
+		<country>USA</country>
+		<year>2001</year>
+	</movie>
+</movies>
