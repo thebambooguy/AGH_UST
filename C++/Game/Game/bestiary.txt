@@ -1,0 +1,27 @@
+g - Goblin:
+	Small and not very powerful enemy. In fact, one of the easiest 
+	enemy you can meet in the game. You shouldn't be scared of 
+	them, however, in bigger group they might hurt you.
+	Health: 5, Attack: 3, Experience Value: 10
+
+B - Bandit:
+	Mediocre enemy. They are robbig the rich and poor alike and looking
+	for lonely travelers. Most of them are deserters from an army, who
+	often try to survive in this brutal world.
+	Health: 25, Attack: 10, Experience Value: 25
+
+S - Snake:
+	This legless lizard could really harm you. He is hiding in a grass 
+	and waiting for you with his poisonous fangs. Beware of his venom,
+	it is very painful. 
+	Health: 60, Attack: 22, Experience Value: 75
+
+O - Ogr:
+	Huge, stinking and green monster from swamps. People, who somehow
+	survived the fight says that his name is Shrek. Might have a donkey 
+	as a companion.
+	Health: 500, Attack: 150, Experience Value: 300
+
+D - Dragon:
+	The one, who is the cause of all evil. The one, you have to defeat...
+	Health: ???, Attack: ???, Experience Value: ??? 		

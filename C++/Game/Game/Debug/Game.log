@@ -1,0 +1,6 @@
+﻿  Level.cpp
+c:\users\szelągi\desktop\game\game\level.cpp(36): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\szelągi\desktop\game\game\level.cpp(37): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\szelągi\desktop\game\game\level.cpp(75): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\szelągi\desktop\game\game\level.cpp(198): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Game.vcxproj -> C:\Users\Szelągi\Desktop\Game\Debug\Game.exe
